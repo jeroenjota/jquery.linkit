@@ -1,0 +1,32 @@
+{
+    "name": "linkIt",
+    "title": "linkt jQuery test PlugIn",
+    "description": "Convert any element to be a link",
+    "keywords": [
+        "link",
+        "href"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Jeroen Verstegen",
+        "url": "http://www.jota.nl"
+    },
+    "maintainers": [
+        {
+            "name": "Jeroen Verstegen",
+            "email": "jeroen@jota.nl",
+            "url": ""
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/jeroenjota/jquery.linkit",
+    "docs": "https://github.com/jeroenjota/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.1"
+    }
+}

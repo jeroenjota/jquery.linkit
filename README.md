@@ -4,10 +4,15 @@
 
 
 ##Version##
-0.1.0
+0.1.1
 
 ##Usage##
-<script src=""></script>
+      $('element').linkIt({
+        href: "http://www.jota.nl", // or whatever
+        text: "Other text",  // or empty for actual text
+        target: "_blank" // or "_self"
+      });
+
 
 ##Vendors##
 jQuery - [http://jquery.com](http://jQuery.com)
